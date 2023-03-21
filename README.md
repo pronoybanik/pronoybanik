@@ -1,5 +1,5 @@
 
-<img width="1500" src="https://www.mooc.org/hubfs/applications-of-computer-programming.jpg">
+<img width="1500" hight="100" src="https://www.mooc.org/hubfs/applications-of-computer-programming.jpg">
 ### Hi there 👋, I'm Pronoy Bnaik
 #### Frontend Web Developer
 
