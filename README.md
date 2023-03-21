@@ -20,4 +20,4 @@ Skills:  REACT / JS /Redux/ HTML / CSS
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pronoybanik&show_icons=true&theme=transparent)
 
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=pronoybanik&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
