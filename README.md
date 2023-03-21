@@ -1,5 +1,5 @@
-
 <img width="1500" hight="500" src="https://www.mooc.org/hubfs/applications-of-computer-programming.jpg">
+
 ### Hi there 👋, I'm Pronoy Bnaik
 #### Frontend Web Developer
 
@@ -24,4 +24,4 @@ Skills:  REACT / JS /Redux/ HTML / CSS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
 
-![Profile views](https://gpvc.arturio.dev/https://github.com/pronoybanik)  
+![](https://komarev.com/ghpvc/?username=your-github-username)  
