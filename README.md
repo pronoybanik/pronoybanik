@@ -1,4 +1,4 @@
-<img width="1500" height="500" hight="200" src="https://www.mooc.org/hubfs/applications-of-computer-programming.jpg">
+<img width="1500" height="500" hight="100" src="https://www.mooc.org/hubfs/applications-of-computer-programming.jpg">
 
 ### Hi there 👋, I'm Pronoy Bnaik
 #### Frontend Web Developer
