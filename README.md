@@ -24,4 +24,4 @@ Skills:  REACT / JS /Redux/ HTML / CSS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://komarev.com/ghpvc/?username=your-github-username)  
+![](https://gpvc.arturio.dev/https://github.com/pronoybanik)  
