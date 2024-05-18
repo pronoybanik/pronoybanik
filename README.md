@@ -1,6 +1,6 @@
 <img width="1500" height="500" hight="100" src="https://www.mooc.org/hubfs/applications-of-computer-programming.jpg">
 
-    <div>
+  
   
 <h2 align="center">
    Welcome to pronoy World!
@@ -131,5 +131,5 @@
   
   
   ![Pronoy Banik Graph](https://github-readme-activity-graph.vercel.app/graph?username=pronoybanik&custom_title=Akas%20Datta's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-</div>
+
 
