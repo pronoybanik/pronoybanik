@@ -4,7 +4,7 @@
   
 <h2 align="center">
    Welcome to pronoy World!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  <img src="https://ibb.co.com/mrLc8D4F" width="28">
 </h2>
 
 
