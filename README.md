@@ -106,12 +106,12 @@
 <div align="center" style="margin: 40px 0;">
   
   <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pronoybanik&theme=nightowl&hide_border=true&background=0D1117&stroke=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub Streak" style="width: 100%; max-width: 800px; margin-bottom: 30px;" />
+
 
   <!-- Stats Cards -->
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 30px 0;">
-    <img src="https://github-readme-stats.vercel.app/api?username=pronoybanik&show_icons=true&theme=nightowl&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=9ca3af" alt="GitHub Stats" style="width: 100%; max-width: 500px;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pronoybanik&layout=compact&theme=nightowl&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=9ca3af" alt="Top Languages" style="width: 100%; max-width: 500px;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=pronoybanik&show_icons=true&theme=nightowl&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=9ca3af" alt="GitHub Stats" style="width: 50%; max-width: 500px;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pronoybanik&layout=compact&theme=nightowl&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=9ca3af" alt="Top Languages" style="width: 50%; max-width: 500px;" />
   </div>
 
   <!-- Contribution Graph -->
@@ -125,45 +125,7 @@
   </div>
 </div>
 
-<!-- Projects Section -->
-## 💼 Featured Projects
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 25px; margin: 40px 0;">
-
-<!-- Project 1 -->
-<div style="background: linear-gradient(135deg, #f8fafc 0%, #f1f5f9 100%); padding: 20px; border-radius: 12px; border-left: 5px solid #6366F1;">
-  <h3>🔗 Project One</h3>
-  <p>MERN stack e-commerce platform with real-time features</p>
-  <div style="margin-top: 15px;">
-    <span style="background: #6366F1; color: white; padding: 4px 10px; border-radius: 15px; font-size: 0.9rem;">React</span>
-    <span style="background: #10b981; color: white; padding: 4px 10px; border-radius: 15px; font-size: 0.9rem;">Node.js</span>
-    <span style="background: #8b5cf6; color: white; padding: 4px 10px; border-radius: 15px; font-size: 0.9rem;">MongoDB</span>
-  </div>
-</div>
-
-<!-- Project 2 -->
-<div style="background: linear-gradient(135deg, #f8fafc 0%, #f1f5f9 100%); padding: 20px; border-radius: 12px; border-left: 5px solid #10b981;">
-  <h3>📱 Project Two</h3>
-  <p>Next.js dashboard with analytics and data visualization</p>
-  <div style="margin-top: 15px;">
-    <span style="background: #6366F1; color: white; padding: 4px 10px; border-radius: 15px; font-size: 0.9rem;">Next.js</span>
-    <span style="background: #0ea5e9; color: white; padding: 4px 10px; border-radius: 15px; font-size: 0.9rem;">TypeScript</span>
-    <span style="background: #f59e0b; color: white; padding: 4px 10px; border-radius: 15px; font-size: 0.9rem;">Tailwind</span>
-  </div>
-</div>
-
-<!-- Project 3 -->
-<div style="background: linear-gradient(135deg, #f8fafc 0%, #f1f5f9 100%); padding: 20px; border-radius: 12px; border-left: 5px solid #f59e0b;">
-  <h3>⚡ Project Three</h3>
-  <p>Real-time chat application with Socket.io</p>
-  <div style="margin-top: 15px;">
-    <span style="background: #0ea5e9; color: white; padding: 4px 10px; border-radius: 15px; font-size: 0.9rem;">Express</span>
-    <span style="background: #f59e0b; color: white; padding: 4px 10px; border-radius: 15px; font-size: 0.9rem;">Socket.io</span>
-    <span style="background: #ef4444; color: white; padding: 4px 10px; border-radius: 15px; font-size: 0.9rem;">JWT</span>
-  </div>
-</div>
-
-</div>
 
 <!-- Connect Section -->
 ## 🌐 Connect With Me
